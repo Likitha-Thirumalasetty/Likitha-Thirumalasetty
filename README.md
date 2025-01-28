@@ -7,7 +7,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am currently leading a group project on machine learning in the field of cybersecurity, aiming to finish within 8 months and write a research paper on my findings.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Likitha-Thirumalasetty&" alt="Likitha-Thirumalasetty" /></p>
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F)](https://git.io/streak-stats)
+
 <!---
 Likitha-Thirumalasetty/Likitha-Thirumalasetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
