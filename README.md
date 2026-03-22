@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m @Likitha-Thirumalasetty</h1>
 
-- 👀 I’m interested in Data Science, Deep Learning and Machine Learning.
+- 👀 I’m interested in Data Engineering, Data Science, Deep Learning and Machine Learning.
 - 🌱 I’m currently learning about various machine learning models, deep learning models, cloud, generative AI and data science techniques.
 - 💞️ I’m looking to collaborate on machine learning, deep learning or data science projects.
 - 📫 How to reach me : likithat1831@gmail.com
